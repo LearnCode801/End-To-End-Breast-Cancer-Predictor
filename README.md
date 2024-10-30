@@ -1,3 +1,4 @@
+
 ---
 
 # Breast Cancer Predictor App
@@ -55,9 +56,12 @@ python app.py
 
 The application predicts the likelihood of breast cancer based on user input parameters, displaying results as "Malignant" or "Benign."
 
+### Confusion Matrix
+
+![Confusion Matrix](https://github.com/LearnCode801/End-To-End-Breast-Cancer-Predictor/blob/main/result.png)
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request with any improvements or updates.
 
-
----
+--- 
