@@ -136,5 +136,3 @@ The most important features for classification:
 - **Cost Effective**: Reduces healthcare costs through accurate classification
 
 ---
-
-**Note**: This project demonstrates machine learning applications in healthcare. All predictions should be validated by qualified medical professionals.
